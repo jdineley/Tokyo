@@ -1,2 +1,3 @@
 Fuji
 Mountain
+Volcano
